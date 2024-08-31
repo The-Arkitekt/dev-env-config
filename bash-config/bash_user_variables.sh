@@ -3,7 +3,7 @@
 ############
 
 export GIT_EMAIL="mr.davidcrumley@gmail.com"
-export PROJECT_DIR="~/dev/
+export PROJECT_DIR="~/dev/"
 
 
 ##################
