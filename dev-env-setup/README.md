@@ -1,8 +1,6 @@
-''#############################################
-''# Steps to setup my development environment #
-''#############################################
+# Setting up my development environment
 
-# 0. Install Necessary Packages
+## 1. Install Necessary Packages
 
     * git
     * openssh
@@ -11,7 +9,7 @@
     * nsxiv (for Soil)
     * graphviz (for Soil)
 
-# 1. Setup Git
+## 2. Setup Git
     
     * setup SSH
         > ssh-keygen -t ed25519 -C $GIT_EMAIL
@@ -29,7 +27,10 @@
 
         * manually copy and paste into git hub
 
-# 2. Clone Repos
+## 3. Clone Repos
+
+    * clone the this repo into home directory
+        > git clone git@github.com:The-Arkitekt/dev-env-config.git
 
     * Move to (or make and move to) $PROJECT_DIR
 
@@ -37,7 +38,7 @@
         > git clone git@github.com:The-Arkitekt/powered-wagon-project.git
         > git clone git@github.com:The-Arkitekt/common-libraries.git
 
-# 2. Setup Neo-Vim
+## 4. Setup Neo-Vim
 
     * Move to (or make and move to) ~/.config
 
