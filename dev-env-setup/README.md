@@ -29,7 +29,7 @@
 
 ## 3. Clone Repos
 
-    * clone the this repo into home directory
+    * clone this repo into home directory
         > git clone git@github.com:The-Arkitekt/dev-env-config.git
 
     * Move to (or make and move to) $PROJECT_DIR

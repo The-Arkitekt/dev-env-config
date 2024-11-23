@@ -13,3 +13,4 @@ alias src="source ~/.bashrc"
 
 alias freeCAD="flatpak run org.freecadweb.FreeCAD"
 alias flashPrint="flatpak run com.flashforge.FlashPrint"
+alias code="flatpak run com.visualstudio.code"
